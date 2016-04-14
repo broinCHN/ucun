@@ -13,11 +13,19 @@
 
 商家管理后台
 <br/>
-   1：添加店员
-   2：添加商品
-   3：商品详情
-   4：微信发送订单到客户
-   4：报表
+&nbsp;&nbsp;&nbsp;1：添加店员
+   <br/>
+   &nbsp;&nbsp;&nbsp;2：添加商品
+   <br/>
+   &nbsp;&nbsp;&nbsp;3：商品详情
+   <br/>
+   &nbsp;&nbsp;&nbsp;4：微信发送订单到客户
+   <br/>
+   &nbsp;&nbsp;&nbsp;4：报表
+   <br/>
+   <br/>
 客户
-   1：个人订单
-   2：评价订单
+<br/>
+   &nbsp;&nbsp;&nbsp;1：个人订单
+   <br/>
+   &nbsp;&nbsp;&nbsp;2：评价订单
